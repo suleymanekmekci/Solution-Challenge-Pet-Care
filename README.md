@@ -13,6 +13,7 @@ As an example to extra futures, when registering an emergency log for an animal,
 
 You can check the fully designed app in Artboards folder. Here's the login and home screens:
 * After you sign in you'll be welcomed with a map that shows the nearest health issues and feeding stations to your location.
+* 
 ![Image of Home](https://github.com/suleymanekmekci/Solution-Challenge-Pet-Care/blob/master/Artboards/welcome.png)
 ![Image of Home](https://github.com/suleymanekmekci/Solution-Challenge-Pet-Care/blob/master/Artboards/home.png)
 
